@@ -19,8 +19,8 @@ Learning the big market in gaming industry <br>
 
 <br>
 
-Understanding video game products
-3. The distribution of the number of owners for each video games
+Understanding video game products <br>
+3. The distribution of the number of owners for each video games 
 4. Median number of owners of each genres
 5. Find out the distribution of the number of owners for the video game genre with the
 highest median number of owners.
