@@ -8,18 +8,19 @@ As a gaming company, our business spans across video game development, investmen
 publishing, platforms development and other game-related aspects. It is thus, of our utmost
 interest to understand the market of video games to assemble better informed business strategies.
 <br>
+<br>
 
-Many questions are asked to explore the market from various perspectives: <br>
+### Many questions are asked to explore the market from various perspectives: <br>
 
 <br>
 
-Learning the big market in gaming industry <br>
+**Learning the big market in gaming industry** <br>
 1. Trend of game releases (quantitative)
 2. The revenue involved in the video game market between 2014 and 2018
 
 <br>
 
-Understanding video game products <br>
+**Understanding video game products <br>**
 3. The distribution of the number of owners for each video games <br>
 4. Median number of owners of each genres <br>
 5. Find out the distribution of the number of owners for the video game genre with thehighest median number of owners.
